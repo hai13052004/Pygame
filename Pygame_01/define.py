@@ -1,0 +1,24 @@
+# import os
+
+# PATH_DIRECTORY=os.path.dirname(__file__)
+# PATH_IMAGES   =os.path.join(PATH_DIRECTORY,'PYGAME')
+#https://youtu.be/vOZfd7tenyQ?si=2BlSI3jyOtJO__ht
+WINDOW_WIDTH    =900
+WINDOW_HEIGHT   =600
+LINE_WIDTH      =10  
+
+COLOR_BLACK     =(140,104,95)
+COLOR_WHITE     =(255,255,255)           
+COLOR_RED       =(255,0,0)
+COLOR_YELLOW    =(238,255,3)    
+COLOR_GREEN     =(0,255,0)
+COLOR_BLUE      =(0,0,255)
+COLOR_LIGHTBLUE =(69,195,210)
+
+PLAYER_WIDTH    =20
+PLAYER_HEIGHT   =100
+PLAYER_VELOCITY =20
+
+BALL_SIZE       =20
+BALL_VELOCITY   =20
+   
